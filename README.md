@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFE1&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%93%B1;App+Dev+Enthusiast+%E2%9A%A1;API+Integration+%2B+Firebase+%F0%9F%94%A5;Learning+DSA+for+Strong+Problem+Solving+%F0%9F%A7%A0" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFE1&center=true&vCenter=true&width=700&lines=Flutter+Developer+%F0%9F%93%B1;React+Native+Developer+%F0%9F%94%A5;API+Integration+%2B+Firebase+%E2%9A%A1;Building+Real+Apps+That+Feel+Premium+%F0%9F%9A%80;Learning+DSA+for+Strong+Problem+Solving+%F0%9F%A7%A0" />
 </p>
 
 ---
@@ -54,10 +54,10 @@ I enjoy crafting clean UI, integrating APIs, and turning ideas into working prod
 ---
 
 ## 🧪 PROJECTS_LAB
-🚀 **VibeStream** (Flutter Project)  
+🚀 **VibeStream** *(Flutter Project)*  
 🔗 https://github.com/SwayamK9/VibeStream  
 
-🤝 **Eaxier** — Home Service App *(Contribution / Team Project)*  
+🤝 **Eaxier** *(Contribution / Team Project)*  
 🔗 https://github.com/NishitRam/Eaxier  
 
 🌦️ **Weather App** *(Flutter + Dio)*  
@@ -70,15 +70,12 @@ I enjoy crafting clean UI, integrating APIs, and turning ideas into working prod
 
 ## 📡 DEV_ANALYTICS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwayamK9&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SwayamK9&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamK9&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwayamK9&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamK9&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -91,7 +88,7 @@ I enjoy crafting clean UI, integrating APIs, and turning ideas into working prod
 ---
 
 <p align="center">
-  <img src="https://github.com/SwayamK9/SwayamK9/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/SwayamK9/SwayamK9/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <p align="center">
