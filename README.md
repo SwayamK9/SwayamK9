@@ -1,68 +1,74 @@
-<h1 align="center">Hi, I'm Swayam 👋⚡</h1>
-<h3 align="center">Flutter Developer • React Native • App Dev • Building Real Projects 🚀</h3>
+<h1 align="center">⚡ Swayam Subham Mishra ⚡</h1>
+<h3 align="center">Flutter Developer • React Native • App Dev • Building High-Quality Mobile Experiences</h3>
 
 <p align="center">
+  <a href="https://swayam-portfolio-two.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-LIVE%20DEMO-00ffe1?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
   <a href="https://www.linkedin.com/in/swayam-subham-mishra-3329b4391/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Swayam%20Subham%20Mishra-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-1e90ff?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:swayamofficial001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-swayamofficial001%40gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-CONTACT-ff3d3d?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/SwayamK9">
-    <img src="https://img.shields.io/badge/GitHub-SwayamK9-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-SwayamK9-0d1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFE1&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%93%B1;App+Dev+Enthusiast+%E2%9A%A1;API+Integration+%2B+Firebase+%F0%9F%94%A5;Learning+DSA+for+Strong+Problem+Solving+%F0%9F%A7%A0" />
 </p>
 
 ---
 
-## 🚀 About Me
-I’m a passionate **App Developer** building modern mobile apps with **Flutter & React Native**.
-I focus on **clean UI**, **API integration**, and building projects that feel real-world.
+## 🧬 SYSTEM_OVERVIEW
+👨‍💻 I’m **Swayam**, an app developer focused on building modern, smooth, real-world mobile apps.  
+I enjoy crafting clean UI, integrating APIs, and turning ideas into working products.
 
-- 📱 Mobile App Development (Flutter / React Native)
-- 🔥 Firebase + REST APIs
-- 🧠 DSA + Problem Solving (to level up as a Software Developer)
+✅ Flutter • Dart • Firebase • REST APIs  
+✅ React Native • TypeScript  
+✅ DSA + Problem Solving
 
 ---
 
-## 💼 Experience
-### Android Intern — Syllogistek Systems Pvt. Ltd. (June 2025)
-- Worked on a **React Native (Expo)** application using **TypeScript**
+## 🛰️ EXPERIENCE_LOG
+### 🟦 Android Intern — Syllogistek Systems Pvt. Ltd. (June 2025)
+- Built features using **React Native (Expo) + TypeScript**
 - Integrated **Firebase**, **AsyncStorage**, and **REST APIs**
-- Built reusable UI components + theming + clean navigation
+- Worked on UI components, navigation, and app theming
 
 ---
 
-## 🧠 Currently
-- 🔭 Building Flutter & React Native apps
-- 🌱 Learning advanced Flutter, architecture & clean coding
-- ⚡ Improving DSA + interview problem solving
-
----
-
-## 🛠 Tech Stack
+## ⚙️ TECH_STACK
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase,ts,js,html,css,java,python,c,sql,git,github,figma,vscode,postman" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
-🚀 **VibeStream** (Flutter)  
-🔗 https://github.com/SwayamK9/VibeStream  
-
-🤝 **Eaxier** — Home Service App (React Native Contribution)  
-🔗 https://github.com/NishitRam/Eaxier  
-
-🌦️ **Weather App** (Flutter + Dio API)  
-💡 7-day forecast, AQI, detailed parameters  
-
-💱 **Currency Converter** (Flutter Offline App)  
-💡 Fast conversion + clean UI  
+## 🚀 FEATURED_DEPLOYMENTS
+🌐 **Portfolio Website (Vercel)**  
+🔗 https://swayam-portfolio-two.vercel.app/
 
 ---
 
-## 📊 GitHub Stats
+## 🧪 PROJECTS_LAB
+🚀 **VibeStream** (Flutter Project)  
+🔗 https://github.com/SwayamK9/VibeStream  
+
+🤝 **Eaxier** — Home Service App *(Contribution / Team Project)*  
+🔗 https://github.com/NishitRam/Eaxier  
+
+🌦️ **Weather App** *(Flutter + Dio)*  
+✅ 7-Day Forecast • AQI • Weather Parameters  
+
+💱 **Currency Converter** *(Flutter Offline Utility)*  
+✅ Fast Conversion • Modern UI  
+
+---
+
+## 📡 DEV_ANALYTICS
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SwayamK9&show_icons=true&theme=tokyonight" />
 </p>
@@ -77,8 +83,17 @@ I focus on **clean UI**, **API integration**, and building projects that feel re
 
 ---
 
-## 📫 Contact
-📧 Email: swayamofficial001@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/swayam-subham-mishra-3329b4391/  
+## 🧿 CONNECT_PROTOCOL
+📧 Email: **swayamofficial001@gmail.com**  
+💼 LinkedIn: **Swayam Subham Mishra**  
+🌐 Portfolio: https://swayam-portfolio-two.vercel.app/
 
-⭐ *I don’t just build apps... I craft experiences.* ⚡
+---
+
+<p align="center">
+  <img src="https://github.com/SwayamK9/SwayamK9/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <b>⭐ STATUS:</b> Building. Learning. Shipping. ⚡
+</p>
