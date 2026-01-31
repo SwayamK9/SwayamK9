@@ -17,12 +17,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFE1&center=true&vCenter=true&width=700&lines=Flutter+Developer+%F0%9F%93%B1;React+Native+Developer+%F0%9F%94%A5;API+Integration+%2B+Firebase+%E2%9A%A1;Building+Real+Apps+That+Feel+Premium+%F0%9F%9A%80;Learning+DSA+for+Strong+Problem+Solving+%F0%9F%A7%A0" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFE1&center=true&vCenter=true&width=700&lines=Flutter+Developer+📱;React+Native+Developer+🔥;API+Integration+%2B+Firebase+⚡;Building+Real+Apps+That+Feel+Premium+🚀;Learning+DSA+for+Strong+Problem+Solving+🧠" />
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SwayamK9&style=for-the-badge&color=00ffe1" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffe1,100:1e90ff&height=3"/>
 
 ## 🧬 SYSTEM_OVERVIEW
+
 👨‍💻 I’m **Swayam**, an app developer focused on building modern, smooth, real-world mobile apps.  
 I enjoy crafting clean UI, integrating APIs, and turning ideas into working products.
 
@@ -30,45 +35,52 @@ I enjoy crafting clean UI, integrating APIs, and turning ideas into working prod
 ✅ React Native • TypeScript  
 ✅ DSA + Problem Solving
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffe1,100:1e90ff&height=3"/>
 
 ## 🛰️ EXPERIENCE_LOG
+
 ### 🟦 Android Intern — Syllogistek Systems Pvt. Ltd. (June 2025)
+
 - Built features using **React Native (Expo) + TypeScript**
 - Integrated **Firebase**, **AsyncStorage**, and **REST APIs**
 - Worked on UI components, navigation, and app theming
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffe1,100:1e90ff&height=3"/>
 
 ## ⚙️ TECH_STACK
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase,ts,js,html,css,java,python,c,sql,git,github,figma,vscode,postman" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffe1,100:1e90ff&height=3"/>
 
 ## 🚀 FEATURED_DEPLOYMENTS
+
 🌐 **Portfolio Website (Vercel)**  
 🔗 https://swayam-portfolio-two.vercel.app/
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffe1,100:1e90ff&height=3"/>
 
 ## 🧪 PROJECTS_LAB
+
 🚀 **VibeStream** *(Flutter Project)*  
 🔗 https://github.com/SwayamK9/VibeStream  
+🎧 Streaming UI • Clean Architecture • Firebase Ready  
 
 🤝 **Eaxier** *(Contribution / Team Project)*  
 🔗 https://github.com/NishitRam/Eaxier  
+👥 Team Collaboration • Real Product Flow  
 
-🌦️ **Weather App** *(Flutter + Dio)*  
-✅ 7-Day Forecast • AQI • Weather Parameters  
+📝 **Notes App** *(Flutter + Local Storage)*  
+🔗 https://github.com/SwayamK9/Notes-App  
+✨ Create • Edit • Delete Notes  
+✨ Minimal UI • Fast Performance  
 
-💱 **Currency Converter** *(Flutter Offline Utility)*  
-✅ Fast Conversion • Modern UI  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffe1,100:1e90ff&height=3"/>
 
----
+## 📊 DEV_ANALYTICS
 
-## 📡 DEV_ANALYTICS
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SwayamK9&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamK9&layout=compact&theme=tokyonight" height="165"/>
@@ -80,7 +92,24 @@ I enjoy crafting clean UI, integrating APIs, and turning ideas into working prod
 
 ---
 
+## 🌌 CONTRIBUTION_ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwayamK9&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 ACHIEVEMENTS
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SwayamK9&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 🧿 CONNECT_PROTOCOL
+
 📧 Email: **swayamofficial001@gmail.com**  
 💼 LinkedIn: **Swayam Subham Mishra**  
 🌐 Portfolio: https://swayam-portfolio-two.vercel.app/
@@ -88,7 +117,7 @@ I enjoy crafting clean UI, integrating APIs, and turning ideas into working prod
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SwayamK9/SwayamK9/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/SwayamK9/SwayamK9/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">
