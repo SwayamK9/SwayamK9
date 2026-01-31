@@ -56,28 +56,13 @@ I enjoy crafting clean UI, integrating APIs, and turning ideas into working prod
 ## 📊 DEV_ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwayamK9&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamK9&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwayamK9&theme=tokyonight" />
 </p>
-
----
 
 ## 🌌 CONTRIBUTION_ACTIVITY
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwayamK9&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 ACHIEVEMENTS
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SwayamK9&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
