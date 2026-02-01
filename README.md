@@ -53,11 +53,6 @@ I enjoy crafting clean UI, integrating APIs, and turning ideas into working prod
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffe1,100:1e90ff&height=3"/>
 
-## 📊 DEV_ANALYTICS
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwayamK9&theme=tokyonight" />
-</p>
 
 ## 🌌 CONTRIBUTION_ACTIVITY
 
